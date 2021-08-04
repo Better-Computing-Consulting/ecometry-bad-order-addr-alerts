@@ -10,9 +10,9 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("FindShipAddrs")> 
 <Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("Price Point Mail Order")> 
+<Assembly: AssemblyCompany("Better Computing Consulting")> 
 <Assembly: AssemblyProduct("FindShipAddrs")> 
-<Assembly: AssemblyCopyright("Copyright © Price Point Mail Order 2011")> 
+<Assembly: AssemblyCopyright("Copyright © Better Computing Consulting 2011")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
